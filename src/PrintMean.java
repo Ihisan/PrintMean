@@ -3,7 +3,7 @@ package com.company;
 public class PrintMean {
 
     public static void main(String[] args) {
-        //int=hel tal
+        //int=hel tal//
         //double = med komma tecken
         System.out.println("Mean of 1, 1, 3, 3: " + meanCalc (1, 1,3,3));
         System.out.println("Mean of 1, 2, 3, 4: " + meanCalc (1, 2,3, 4));
