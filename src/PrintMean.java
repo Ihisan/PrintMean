@@ -5,7 +5,7 @@ public class PrintMean {
     public static void main(String[] args) {
         //int=hel tal//
         //double = med komma tecken
-        System.out.println("Mean of 1, 1, 3, 3: " + meanCalc (12, 1,3,3));
+        System.out.println("Mean of 1, 1, 3, 3: " + meanCalc (12, 1,33,3));
         System.out.println("Mean of 1, 2, 3, 4: " + meanCalc (1, 2,3, 4));
         System.out.println("Mean of 1, -2, 3, -4: " + meanCalc(1 ,-2 ,3, -4));
         System.out.println("Mean of -111, -131, 24, 2: " + meanCalc(-1, -11, 24, 2));
